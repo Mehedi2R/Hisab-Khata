@@ -1,0 +1,5 @@
+=== HISAB KHATA PERMANENT RELEASE ARCHIVE LEDGER ===
+Total Preserved Releases: 2
+
+- HisabKhata-v3.4.7.apk | Size: 2495375 bytes
+- HisabKhata-v3.4.8.apk | Size: 2495375 bytes

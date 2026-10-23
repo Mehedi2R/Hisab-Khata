@@ -1,0 +1,74 @@
+com.hisabkhata.app-material-ripple-release-0 C:\Users\KCR\.gradle\caches\9.7.1\transforms\08608d0aadbc00ba465cc47272078692\transformed\material-ripple-release\res
+com.hisabkhata.app-core-runtime-2.2.0-1 C:\Users\KCR\.gradle\caches\9.7.1\transforms\0a7ba5aa773cb844cda0eb91810cf1c9\transformed\core-runtime-2.2.0\res
+com.hisabkhata.app-navigation-compose-2.8.5-2 C:\Users\KCR\.gradle\caches\9.7.1\transforms\1025428bdc4cd3520b5705469bfdb8c8\transformed\navigation-compose-2.8.5\res
+com.hisabkhata.app-core-1.15.0-3 C:\Users\KCR\.gradle\caches\9.7.1\transforms\1907ce8501401709f844f4f8612f0a87\transformed\core-1.15.0\res
+com.hisabkhata.app-room-runtime-2.6.1-4 C:\Users\KCR\.gradle\caches\9.7.1\transforms\1e93dc44e8d43ffd461e0b1a2baf504c\transformed\room-runtime-2.6.1\res
+com.hisabkhata.app-material3-release-5 C:\Users\KCR\.gradle\caches\9.7.1\transforms\20286ab5ebab30c1e0eebc6c53fd9f1f\transformed\material3-release\res
+com.hisabkhata.app-ui-text-release-6 C:\Users\KCR\.gradle\caches\9.7.1\transforms\252c7972684367724dd149f98f92c34a\transformed\ui-text-release\res
+com.hisabkhata.app-material-icons-core-release-7 C:\Users\KCR\.gradle\caches\9.7.1\transforms\28da5acc7011ffa084172c2b79386584\transformed\material-icons-core-release\res
+com.hisabkhata.app-animation-core-release-8 C:\Users\KCR\.gradle\caches\9.7.1\transforms\29052ecbabe14ff2c0451a033e63fb6d\transformed\animation-core-release\res
+com.hisabkhata.app-ui-unit-release-9 C:\Users\KCR\.gradle\caches\9.7.1\transforms\2e23b9f632eb4bf18bc313a102eff4ae\transformed\ui-unit-release\res
+com.hisabkhata.app-foundation-layout-release-10 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3035b66888c0e1b4bd518bf1924b7e12\transformed\foundation-layout-release\res
+com.hisabkhata.app-lifecycle-viewmodel-compose-release-11 C:\Users\KCR\.gradle\caches\9.7.1\transforms\349acf39deee126b6f81e5f80d3acee3\transformed\lifecycle-viewmodel-compose-release\res
+com.hisabkhata.app-customview-poolingcontainer-1.0.0-12 C:\Users\KCR\.gradle\caches\9.7.1\transforms\353b1e77282124a95dca35c62aaacbd3\transformed\customview-poolingcontainer-1.0.0\res
+com.hisabkhata.app-lifecycle-process-2.8.7-13 C:\Users\KCR\.gradle\caches\9.7.1\transforms\35412749082c720a142840153ed6c55e\transformed\lifecycle-process-2.8.7\res
+com.hisabkhata.app-lifecycle-runtime-release-14 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3673d0cc7bb538fe675c3ca9a13387d3\transformed\lifecycle-runtime-release\res
+com.hisabkhata.app-ui-tooling-data-release-15 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3882309cc5b2a94d306cd002d4c65541\transformed\ui-tooling-data-release\res
+com.hisabkhata.app-activity-1.9.3-16 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3918809fa1dde344cf34f2ffcc3c0d35\transformed\activity-1.9.3\res
+com.hisabkhata.app-core-ktx-1.15.0-17 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3a42913fab8d369904b317b3a3017f69\transformed\core-ktx-1.15.0\res
+com.hisabkhata.app-lifecycle-runtime-ktx-release-18 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3d58dd3c67b3e403b69baac04fa71496\transformed\lifecycle-runtime-ktx-release\res
+com.hisabkhata.app-firebase-common-21.0.0-19 C:\Users\KCR\.gradle\caches\9.7.1\transforms\3eb596d52ee9eadea2bb47ee828fe021\transformed\firebase-common-21.0.0\res
+com.hisabkhata.app-graphics-path-1.0.1-20 C:\Users\KCR\.gradle\caches\9.7.1\transforms\405b5cb64ff5dbc3234010013858756c\transformed\graphics-path-1.0.1\res
+com.hisabkhata.app-ui-tooling-preview-release-21 C:\Users\KCR\.gradle\caches\9.7.1\transforms\45953f23f91105cc1934cf20f0921a8a\transformed\ui-tooling-preview-release\res
+com.hisabkhata.app-navigation-common-ktx-2.8.5-22 C:\Users\KCR\.gradle\caches\9.7.1\transforms\465e1ee983e8bdc2922ee8369beabcdf\transformed\navigation-common-ktx-2.8.5\res
+com.hisabkhata.app-credentials-play-services-auth-1.2.0-rc01-23 C:\Users\KCR\.gradle\caches\9.7.1\transforms\47e7ba568f2d3910dc5420355d30a024\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.hisabkhata.app-ui-geometry-release-24 C:\Users\KCR\.gradle\caches\9.7.1\transforms\491d289a793325de13702d6995d3ba99\transformed\ui-geometry-release\res
+com.hisabkhata.app-lifecycle-livedata-core-ktx-2.8.7-25 C:\Users\KCR\.gradle\caches\9.7.1\transforms\495c611cb510f808dfc1a911cb0a640c\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.hisabkhata.app-work-runtime-ktx-2.9.1-26 C:\Users\KCR\.gradle\caches\9.7.1\transforms\509861ed8b2fc676f21f8bb5740b424f\transformed\work-runtime-ktx-2.9.1\res
+com.hisabkhata.app-ui-util-release-27 C:\Users\KCR\.gradle\caches\9.7.1\transforms\5c6e768cf1c7899fb902f4fc0c1afa36\transformed\ui-util-release\res
+com.hisabkhata.app-annotation-experimental-1.4.1-28 C:\Users\KCR\.gradle\caches\9.7.1\transforms\611de78aaa45036d1f15b82d2c3d109c\transformed\annotation-experimental-1.4.1\res
+com.hisabkhata.app-browser-1.4.0-29 C:\Users\KCR\.gradle\caches\9.7.1\transforms\62fde94b87eb4b09a8c7a3680c013263\transformed\browser-1.4.0\res
+com.hisabkhata.app-play-services-auth-21.3.0-30 C:\Users\KCR\.gradle\caches\9.7.1\transforms\63dec5416a1f44e3f148b2ef3e36ace2\transformed\play-services-auth-21.3.0\res
+com.hisabkhata.app-room-ktx-2.6.1-31 C:\Users\KCR\.gradle\caches\9.7.1\transforms\64260f7775bc3fa7a826994317aaf5a6\transformed\room-ktx-2.6.1\res
+com.hisabkhata.app-navigation-runtime-ktx-2.8.5-32 C:\Users\KCR\.gradle\caches\9.7.1\transforms\659ee7a757b8cb06efdd1549a8632ebd\transformed\navigation-runtime-ktx-2.8.5\res
+com.hisabkhata.app-animation-release-33 C:\Users\KCR\.gradle\caches\9.7.1\transforms\66f0b752d29c1b61e9e73c79bc29538a\transformed\animation-release\res
+com.hisabkhata.app-credentials-1.2.0-rc01-34 C:\Users\KCR\.gradle\caches\9.7.1\transforms\6d50d34587b1976bbe993812ed7ec48d\transformed\credentials-1.2.0-rc01\res
+com.hisabkhata.app-activity-compose-1.9.3-35 C:\Users\KCR\.gradle\caches\9.7.1\transforms\73d083bd9592191d3237cc65c10cc256\transformed\activity-compose-1.9.3\res
+com.hisabkhata.app-savedstate-1.2.1-36 C:\Users\KCR\.gradle\caches\9.7.1\transforms\7adbf604d05a9ec360ec32db1c8a205e\transformed\savedstate-1.2.1\res
+com.hisabkhata.app-lifecycle-viewmodel-ktx-2.8.7-37 C:\Users\KCR\.gradle\caches\9.7.1\transforms\8a3066e8d54a64185208c322e9d1c53b\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.hisabkhata.app-navigation-runtime-2.8.5-38 C:\Users\KCR\.gradle\caches\9.7.1\transforms\8b99ccd9a6caeb6edf6afeef75629ac5\transformed\navigation-runtime-2.8.5\res
+com.hisabkhata.app-fragment-1.5.7-39 C:\Users\KCR\.gradle\caches\9.7.1\transforms\8f7de985b940d763b07acefeb5dedb4c\transformed\fragment-1.5.7\res
+com.hisabkhata.app-material-icons-extended-release-40 C:\Users\KCR\.gradle\caches\9.7.1\transforms\9212cb2cc8b497a5ff2ece474efb309c\transformed\material-icons-extended-release\res
+com.hisabkhata.app-ui-graphics-release-41 C:\Users\KCR\.gradle\caches\9.7.1\transforms\93ebda1a60930560a0dbe14a98b25a9d\transformed\ui-graphics-release\res
+com.hisabkhata.app-runtime-saveable-release-42 C:\Users\KCR\.gradle\caches\9.7.1\transforms\95b231c5dd0a2f017c9ef1a0efd2664b\transformed\runtime-saveable-release\res
+com.hisabkhata.app-lifecycle-livedata-core-2.8.7-43 C:\Users\KCR\.gradle\caches\9.7.1\transforms\9a536cfe4db98f0790eca38e49f43cae\transformed\lifecycle-livedata-core-2.8.7\res
+com.hisabkhata.app-emoji2-1.3.0-44 C:\Users\KCR\.gradle\caches\9.7.1\transforms\9c1449bcb4b01497da9dabada1492605\transformed\emoji2-1.3.0\res
+com.hisabkhata.app-core-common-2.0.3-45 C:\Users\KCR\.gradle\caches\9.7.1\transforms\a5b56bc5369227a5fecd81edcaa063e3\transformed\core-common-2.0.3\res
+com.hisabkhata.app-ui-test-manifest-1.7.5-46 C:\Users\KCR\.gradle\caches\9.7.1\transforms\aa1b296ac319c40c25dc3e8bd1831986\transformed\ui-test-manifest-1.7.5\res
+com.hisabkhata.app-tracing-1.2.0-47 C:\Users\KCR\.gradle\caches\9.7.1\transforms\aa85f2445fccd4dfab66b7ae4660f6f0\transformed\tracing-1.2.0\res
+com.hisabkhata.app-foundation-release-48 C:\Users\KCR\.gradle\caches\9.7.1\transforms\aae89d34a609cc5305336d07f9f22b48\transformed\foundation-release\res
+com.hisabkhata.app-sqlite-framework-2.4.0-49 C:\Users\KCR\.gradle\caches\9.7.1\transforms\b1a44afe578749058c9fc18ea896bdd2\transformed\sqlite-framework-2.4.0\res
+com.hisabkhata.app-lifecycle-runtime-compose-release-50 C:\Users\KCR\.gradle\caches\9.7.1\transforms\b42960ce9322699ecbeb042c2047a230\transformed\lifecycle-runtime-compose-release\res
+com.hisabkhata.app-savedstate-ktx-1.2.1-51 C:\Users\KCR\.gradle\caches\9.7.1\transforms\b6cbe0241aff347b3e3a462cc78d6861\transformed\savedstate-ktx-1.2.1\res
+com.hisabkhata.app-play-services-basement-18.4.0-52 C:\Users\KCR\.gradle\caches\9.7.1\transforms\bb9c628f02621ce973498718e1b03094\transformed\play-services-basement-18.4.0\res
+com.hisabkhata.app-play-services-base-18.5.0-53 C:\Users\KCR\.gradle\caches\9.7.1\transforms\bc6c6eff7dbc65a6c23aae6089b3956a\transformed\play-services-base-18.5.0\res
+com.hisabkhata.app-material-release-54 C:\Users\KCR\.gradle\caches\9.7.1\transforms\ceb0e4d1c6f72c72516122c982eb0670\transformed\material-release\res
+com.hisabkhata.app-startup-runtime-1.1.1-55 C:\Users\KCR\.gradle\caches\9.7.1\transforms\cf84986893d9b61cb50391c2c1b63794\transformed\startup-runtime-1.1.1\res
+com.hisabkhata.app-lifecycle-viewmodel-savedstate-2.8.7-56 C:\Users\KCR\.gradle\caches\9.7.1\transforms\cfe2cf6de1cdf4c64594789f66927396\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.hisabkhata.app-runtime-release-57 C:\Users\KCR\.gradle\caches\9.7.1\transforms\d7088c11d8aeecbaca02a844110f72c7\transformed\runtime-release\res
+com.hisabkhata.app-navigation-common-2.8.5-58 C:\Users\KCR\.gradle\caches\9.7.1\transforms\d942a5ba6d7b43f7bd6a4918684a4d59\transformed\navigation-common-2.8.5\res
+com.hisabkhata.app-work-runtime-2.9.1-59 C:\Users\KCR\.gradle\caches\9.7.1\transforms\da74d5a6e5cca8d109e73db3e6da3982\transformed\work-runtime-2.9.1\res
+com.hisabkhata.app-lifecycle-service-2.8.7-60 C:\Users\KCR\.gradle\caches\9.7.1\transforms\dd5cf2260e00c8b5c0808286d97f8fd0\transformed\lifecycle-service-2.8.7\res
+com.hisabkhata.app-activity-ktx-1.9.3-61 C:\Users\KCR\.gradle\caches\9.7.1\transforms\ddad1d15af2f051fc5e53a21b2e22c37\transformed\activity-ktx-1.9.3\res
+com.hisabkhata.app-lifecycle-viewmodel-release-62 C:\Users\KCR\.gradle\caches\9.7.1\transforms\e1776ec1404af751ba18daa9cc7ada86\transformed\lifecycle-viewmodel-release\res
+com.hisabkhata.app-ui-release-63 C:\Users\KCR\.gradle\caches\9.7.1\transforms\e7d0c08d87aba1c8f98426224a492dcb\transformed\ui-release\res
+com.hisabkhata.app-lifecycle-livedata-2.8.7-64 C:\Users\KCR\.gradle\caches\9.7.1\transforms\e965caca0c25ef9c9eff15a8a58e13d1\transformed\lifecycle-livedata-2.8.7\res
+com.hisabkhata.app-profileinstaller-1.3.1-65 C:\Users\KCR\.gradle\caches\9.7.1\transforms\ee7a5cf6ee58e8e7e76b94f349cdd171\transformed\profileinstaller-1.3.1\res
+com.hisabkhata.app-ui-tooling-release-66 C:\Users\KCR\.gradle\caches\9.7.1\transforms\fbe51d5b120e71eb8ed40035f3a32b5d\transformed\ui-tooling-release\res
+com.hisabkhata.app-sqlite-2.4.0-67 C:\Users\KCR\.gradle\caches\9.7.1\transforms\ff8efad455d50cbfc7319d08ec313620\transformed\sqlite-2.4.0\res
+com.hisabkhata.app-resValues-68 D:\Android\Hisab Khata\app\build\generated\res\resValues\debug
+com.hisabkhata.app-packageDebugResources-69 D:\Android\Hisab Khata\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hisabkhata.app-packageDebugResources-70 D:\Android\Hisab Khata\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hisabkhata.app-debug-71 D:\Android\Hisab Khata\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.hisabkhata.app-debug-72 D:\Android\Hisab Khata\app\src\debug\res
+com.hisabkhata.app-main-73 D:\Android\Hisab Khata\app\src\main\res
